@@ -1,2 +1,2 @@
-# Google-Kick-Start
-This repository is created to practice problems from Google Kick Start (https://codingcompetitions.withgoogle.com/kickstart).
+# Craking-the-Coding-Interview
+This repository is created to practice problems from Cracking the Coding Interview (6th Edition).
