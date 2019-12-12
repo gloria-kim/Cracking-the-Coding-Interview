@@ -1,2 +1,2 @@
-# Craking-the-Coding-Interview
-This repository is created to practice problems from Cracking the Coding Interview (6th Edition).
+# Elements-of-Programming-Interviews
+This repository is created to practice problems from Elements of Programming Interviews (C++).
